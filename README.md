@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Ben Li's first repository
 <!DOCTYPE html>
 <html>
